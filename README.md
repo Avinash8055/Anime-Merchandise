@@ -1,1 +1,1 @@
-Git clone the repository and and LIVE!!
+Git clone the repository(thanks to Linus Torvalds) and and LIVE!!
