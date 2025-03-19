@@ -8,7 +8,7 @@ cd Anime E-commerce
 ```
 
 ### 🔹 **Step 2: Open with Live Server**  
-If you have **VS Code**, use **Live Server**:  
+In **VS Code**, use **Live Server**:  
 
 1. Install the **Live Server** extension.  
 2. Open the project folder in **VS Code**.  
